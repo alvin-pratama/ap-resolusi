@@ -1,0 +1,6 @@
+AP RESOLUSI
+- Konsisten belajar pemrograman python
+- Membuat web dengan framework flask
+- Membuat restAPI dengan framework flask
+- ubah aplikasi web yang pernah dibuat dengan framework CI dan Laravel ke flask
+- Membuat portfolio yang bisa dijalankan di github
