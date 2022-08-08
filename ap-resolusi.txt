@@ -4,3 +4,6 @@ AP RESOLUSI
 - Membuat restAPI dengan framework flask
 - ubah aplikasi web yang pernah dibuat dengan framework CI dan Laravel ke flask
 - Membuat portfolio yang bisa dijalankan di github
+- Membuat web flask dengan role
+- Membuat web sistem informasi desa
+- Membuat web sistem informasi rumahsakit
